@@ -10,7 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<FoodDbContext>(options => options.UseSqlite(builder.Configuration.GetConnectionString("FoodConnection")));
+builder.Services.AddDbContext<BowlingLeagueContext>(options => options.UseSqlite(builder.Configuration.GetConnectionString("BowlerConnection")));
 
 var app = builder.Build();
 

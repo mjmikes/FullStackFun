@@ -1,10 +1,12 @@
 import './App.css';
-import FoodList from './FoodList';
+import BowlList from './BowlList';
+import Welcome from './Welcome';
 
 function App() {
   return (
     <>
-      <FoodList />
+      <Welcome />
+      <BowlList />
     </>
   );
 }

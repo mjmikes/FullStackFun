@@ -131,3 +131,4 @@
 /Users/mjmikes/Downloads/Classes/IS 413- Enterprise Application Development/Mission 10/FullStackFun/backend/FullStackFun/FullStackFun/obj/Debug/net8.0/FullStackFun.pdb
 /Users/mjmikes/Downloads/Classes/IS 413- Enterprise Application Development/Mission 10/FullStackFun/backend/FullStackFun/FullStackFun/obj/Debug/net8.0/FullStackFun.genruntimeconfig.cache
 /Users/mjmikes/Downloads/Classes/IS 413- Enterprise Application Development/Mission 10/FullStackFun/backend/FullStackFun/FullStackFun/obj/Debug/net8.0/ref/FullStackFun.dll
+/Users/mjmikes/Downloads/Classes/IS 413- Enterprise Application Development/Mission 10/FullStackFun/backend/FullStackFun/FullStackFun/obj/Debug/net8.0/FullStackFun.sourcelink.json
